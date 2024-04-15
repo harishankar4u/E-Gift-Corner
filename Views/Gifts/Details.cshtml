@@ -1,0 +1,61 @@
+﻿@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+     <table style="width:98%;padding:0; border-collapse:collapse; margin-left:auto;margin-right:auto" border="0">
+        <tr>
+          <td>&nbsp;</td>
+        </tr>
+
+    
+        <tr>
+          <td style="font-size:12px; ">
+              @model LG_10_Exercise_01.Models.Gift
+
+@{
+    ViewBag.Title = "Details";
+}
+
+
+
+<fieldset>
+    <legend>Gift</legend>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.Gift_Name)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Gift_Name)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.Details)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Details)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.Price)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Price)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.giftcategory.strCategory)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.giftcategory.strCategory)
+    </div>
+</fieldset>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id=Model.ID }) |
+    @Html.ActionLink("Back to List", "Index")|
+       @Html.ActionLink("Add to Shopping Cart", "ShoppingCart", new { id = Model.ID })   
+</p>
+              </td>
+        </tr>
+        
+      </table>

@@ -1,0 +1,316 @@
+C:\Users\ankur.sachdeva\Desktop\2 Aug 13\lg 10\input\LG_10_Exercise_01\LG_10_Exercise_01\bin\LG_10_Exercise_01.dll
+C:\Users\ankur.sachdeva\Desktop\2 Aug 13\lg 10\input\LG_10_Exercise_01\LG_10_Exercise_01\bin\LG_10_Exercise_01.pdb
+C:\Users\ankur.sachdeva\Desktop\2 Aug 13\lg 10\input\LG_10_Exercise_01\LG_10_Exercise_01\bin\Antlr3.Runtime.dll
+C:\Users\ankur.sachdeva\Desktop\2 Aug 13\lg 10\input\LG_10_Exercise_01\LG_10_Exercise_01\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\ankur.sachdeva\Desktop\2 Aug 13\lg 10\input\LG_10_Exercise_01\LG_10_Exercise_01\bin\DotNetOpenAuth.Core.dll
+C:\Users\ankur.sachdeva\Desktop\2 Aug 13\lg 10\input\LG_10_Exercise_01\LG_10_Exercise_01\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\ankur.sachdeva\Desktop\2 Aug 13\lg 10\input\LG_10_Exercise_01\LG_10_Exercise_01\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\ankur.sachdeva\Desktop\2 Aug 13\lg 10\input\LG_10_Exercise_01\LG_10_Exercise_01\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\ankur.sachdeva\Desktop\2 Aug 13\lg 10\input\LG_10_Exercise_01\LG_10_Exercise_01\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\ankur.sachdeva\Desktop\2 Aug 13\lg 10\input\LG_10_Exercise_01\LG_10_Exercise_01\bin\EntityFramework.dll
+C:\Users\ankur.sachdeva\Desktop\2 Aug 13\lg 10\input\LG_10_Exercise_01\LG_10_Exercise_01\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ankur.sachdeva\Desktop\2 Aug 13\lg 10\input\LG_10_Exercise_01\LG_10_Exercise_01\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\ankur.sachdeva\Desktop\2 Aug 13\lg 10\input\LG_10_Exercise_01\LG_10_Exercise_01\bin\Newtonsoft.Json.dll
+C:\Users\ankur.sachdeva\Desktop\2 Aug 13\lg 10\input\LG_10_Exercise_01\LG_10_Exercise_01\bin\System.Net.Http.Formatting.dll
+C:\Users\ankur.sachdeva\Desktop\2 Aug 13\lg 10\input\LG_10_Exercise_01\LG_10_Exercise_01\bin\System.Web.Helpers.dll
+C:\Users\ankur.sachdeva\Desktop\2 Aug 13\lg 10\input\LG_10_Exercise_01\LG_10_Exercise_01\bin\System.Web.Http.dll
+C:\Users\ankur.sachdeva\Desktop\2 Aug 13\lg 10\input\LG_10_Exercise_01\LG_10_Exercise_01\bin\System.Web.Http.WebHost.dll
+C:\Users\ankur.sachdeva\Desktop\2 Aug 13\lg 10\input\LG_10_Exercise_01\LG_10_Exercise_01\bin\System.Web.Mvc.dll
+C:\Users\ankur.sachdeva\Desktop\2 Aug 13\lg 10\input\LG_10_Exercise_01\LG_10_Exercise_01\bin\System.Web.Optimization.dll
+C:\Users\ankur.sachdeva\Desktop\2 Aug 13\lg 10\input\LG_10_Exercise_01\LG_10_Exercise_01\bin\System.Web.Razor.dll
+C:\Users\ankur.sachdeva\Desktop\2 Aug 13\lg 10\input\LG_10_Exercise_01\LG_10_Exercise_01\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ankur.sachdeva\Desktop\2 Aug 13\lg 10\input\LG_10_Exercise_01\LG_10_Exercise_01\bin\System.Web.WebPages.dll
+C:\Users\ankur.sachdeva\Desktop\2 Aug 13\lg 10\input\LG_10_Exercise_01\LG_10_Exercise_01\bin\System.Web.WebPages.Razor.dll
+C:\Users\ankur.sachdeva\Desktop\2 Aug 13\lg 10\input\LG_10_Exercise_01\LG_10_Exercise_01\bin\WebGrease.dll
+C:\Users\ankur.sachdeva\Desktop\2 Aug 13\lg 10\input\LG_10_Exercise_01\LG_10_Exercise_01\bin\WebMatrix.Data.dll
+C:\Users\ankur.sachdeva\Desktop\2 Aug 13\lg 10\input\LG_10_Exercise_01\LG_10_Exercise_01\bin\WebMatrix.WebData.dll
+C:\Users\ankur.sachdeva\Desktop\2 Aug 13\lg 10\input\LG_10_Exercise_01\LG_10_Exercise_01\bin\EntityFramework.xml
+C:\Users\ankur.sachdeva\Desktop\2 Aug 13\lg 10\input\LG_10_Exercise_01\LG_10_Exercise_01\bin\Newtonsoft.Json.xml
+C:\Users\ankur.sachdeva\Desktop\2 Aug 13\lg 10\input\LG_10_Exercise_01\LG_10_Exercise_01\bin\System.Net.Http.Formatting.xml
+C:\Users\ankur.sachdeva\Desktop\2 Aug 13\lg 10\input\LG_10_Exercise_01\LG_10_Exercise_01\bin\System.Web.Helpers.xml
+C:\Users\ankur.sachdeva\Desktop\2 Aug 13\lg 10\input\LG_10_Exercise_01\LG_10_Exercise_01\bin\System.Web.Http.xml
+C:\Users\ankur.sachdeva\Desktop\2 Aug 13\lg 10\input\LG_10_Exercise_01\LG_10_Exercise_01\bin\System.Web.Http.WebHost.xml
+C:\Users\ankur.sachdeva\Desktop\2 Aug 13\lg 10\input\LG_10_Exercise_01\LG_10_Exercise_01\bin\System.Web.Mvc.xml
+C:\Users\ankur.sachdeva\Desktop\2 Aug 13\lg 10\input\LG_10_Exercise_01\LG_10_Exercise_01\bin\System.Web.Razor.xml
+C:\Users\ankur.sachdeva\Desktop\2 Aug 13\lg 10\input\LG_10_Exercise_01\LG_10_Exercise_01\bin\System.Web.WebPages.xml
+C:\Users\ankur.sachdeva\Desktop\2 Aug 13\lg 10\input\LG_10_Exercise_01\LG_10_Exercise_01\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ankur.sachdeva\Desktop\2 Aug 13\lg 10\input\LG_10_Exercise_01\LG_10_Exercise_01\bin\System.Web.WebPages.Razor.xml
+C:\Users\ankur.sachdeva\Desktop\2 Aug 13\lg 10\input\LG_10_Exercise_01\LG_10_Exercise_01\bin\WebMatrix.Data.xml
+C:\Users\ankur.sachdeva\Desktop\2 Aug 13\lg 10\input\LG_10_Exercise_01\LG_10_Exercise_01\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\ankur.sachdeva\Desktop\2 Aug 13\lg 10\input\LG_10_Exercise_01\LG_10_Exercise_01\bin\WebMatrix.WebData.xml
+C:\Users\ankur.sachdeva\Desktop\2 Aug 13\lg 10\input\LG_10_Exercise_01\LG_10_Exercise_01\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\ankur.sachdeva\Desktop\2 Aug 13\lg 10\input\LG_10_Exercise_01\LG_10_Exercise_01\bin\DotNetOpenAuth.Core.xml
+C:\Users\ankur.sachdeva\Desktop\2 Aug 13\lg 10\input\LG_10_Exercise_01\LG_10_Exercise_01\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\ankur.sachdeva\Desktop\2 Aug 13\lg 10\input\LG_10_Exercise_01\LG_10_Exercise_01\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\ankur.sachdeva\Desktop\2 Aug 13\lg 10\input\LG_10_Exercise_01\LG_10_Exercise_01\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\ankur.sachdeva\Desktop\2 Aug 13\lg 10\input\LG_10_Exercise_01\LG_10_Exercise_01\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\ankur.sachdeva\Desktop\2 Aug 13\lg 10\input\LG_10_Exercise_01\LG_10_Exercise_01\obj\Debug\LG_10_Exercise_01.csprojResolveAssemblyReference.cache
+C:\Users\ankur.sachdeva\Desktop\2 Aug 13\lg 10\input\LG_10_Exercise_01\LG_10_Exercise_01\obj\Debug\LG_10_Exercise_01.Migrations.InitialCreate.resources
+C:\Users\ankur.sachdeva\Desktop\2 Aug 13\lg 10\input\LG_10_Exercise_01\LG_10_Exercise_01\obj\Debug\LG_10_Exercise_01.csproj.GenerateResource.Cache
+C:\Users\ankur.sachdeva\Desktop\2 Aug 13\lg 10\input\LG_10_Exercise_01\LG_10_Exercise_01\obj\Debug\LG_10_Exercise_01.dll
+C:\Users\ankur.sachdeva\Desktop\2 Aug 13\lg 10\input\LG_10_Exercise_01\LG_10_Exercise_01\obj\Debug\LG_10_Exercise_01.pdb
+C:\Users\ankur.sachdeva\Desktop\2 Aug 13\lg 10\soln\LG_10_Exercise_01\LG_10_Exercise_01\bin\LG_10_Exercise_01.dll
+C:\Users\ankur.sachdeva\Desktop\2 Aug 13\lg 10\soln\LG_10_Exercise_01\LG_10_Exercise_01\bin\LG_10_Exercise_01.pdb
+C:\Users\ankur.sachdeva\Desktop\2 Aug 13\lg 10\soln\LG_10_Exercise_01\LG_10_Exercise_01\bin\Antlr3.Runtime.dll
+C:\Users\ankur.sachdeva\Desktop\2 Aug 13\lg 10\soln\LG_10_Exercise_01\LG_10_Exercise_01\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\ankur.sachdeva\Desktop\2 Aug 13\lg 10\soln\LG_10_Exercise_01\LG_10_Exercise_01\bin\DotNetOpenAuth.Core.dll
+C:\Users\ankur.sachdeva\Desktop\2 Aug 13\lg 10\soln\LG_10_Exercise_01\LG_10_Exercise_01\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\ankur.sachdeva\Desktop\2 Aug 13\lg 10\soln\LG_10_Exercise_01\LG_10_Exercise_01\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\ankur.sachdeva\Desktop\2 Aug 13\lg 10\soln\LG_10_Exercise_01\LG_10_Exercise_01\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\ankur.sachdeva\Desktop\2 Aug 13\lg 10\soln\LG_10_Exercise_01\LG_10_Exercise_01\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\ankur.sachdeva\Desktop\2 Aug 13\lg 10\soln\LG_10_Exercise_01\LG_10_Exercise_01\bin\EntityFramework.dll
+C:\Users\ankur.sachdeva\Desktop\2 Aug 13\lg 10\soln\LG_10_Exercise_01\LG_10_Exercise_01\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ankur.sachdeva\Desktop\2 Aug 13\lg 10\soln\LG_10_Exercise_01\LG_10_Exercise_01\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\ankur.sachdeva\Desktop\2 Aug 13\lg 10\soln\LG_10_Exercise_01\LG_10_Exercise_01\bin\Newtonsoft.Json.dll
+C:\Users\ankur.sachdeva\Desktop\2 Aug 13\lg 10\soln\LG_10_Exercise_01\LG_10_Exercise_01\bin\System.Net.Http.Formatting.dll
+C:\Users\ankur.sachdeva\Desktop\2 Aug 13\lg 10\soln\LG_10_Exercise_01\LG_10_Exercise_01\bin\System.Web.Helpers.dll
+C:\Users\ankur.sachdeva\Desktop\2 Aug 13\lg 10\soln\LG_10_Exercise_01\LG_10_Exercise_01\bin\System.Web.Http.dll
+C:\Users\ankur.sachdeva\Desktop\2 Aug 13\lg 10\soln\LG_10_Exercise_01\LG_10_Exercise_01\bin\System.Web.Http.WebHost.dll
+C:\Users\ankur.sachdeva\Desktop\2 Aug 13\lg 10\soln\LG_10_Exercise_01\LG_10_Exercise_01\bin\System.Web.Mvc.dll
+C:\Users\ankur.sachdeva\Desktop\2 Aug 13\lg 10\soln\LG_10_Exercise_01\LG_10_Exercise_01\bin\System.Web.Optimization.dll
+C:\Users\ankur.sachdeva\Desktop\2 Aug 13\lg 10\soln\LG_10_Exercise_01\LG_10_Exercise_01\bin\System.Web.Razor.dll
+C:\Users\ankur.sachdeva\Desktop\2 Aug 13\lg 10\soln\LG_10_Exercise_01\LG_10_Exercise_01\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ankur.sachdeva\Desktop\2 Aug 13\lg 10\soln\LG_10_Exercise_01\LG_10_Exercise_01\bin\System.Web.WebPages.dll
+C:\Users\ankur.sachdeva\Desktop\2 Aug 13\lg 10\soln\LG_10_Exercise_01\LG_10_Exercise_01\bin\System.Web.WebPages.Razor.dll
+C:\Users\ankur.sachdeva\Desktop\2 Aug 13\lg 10\soln\LG_10_Exercise_01\LG_10_Exercise_01\bin\WebGrease.dll
+C:\Users\ankur.sachdeva\Desktop\2 Aug 13\lg 10\soln\LG_10_Exercise_01\LG_10_Exercise_01\bin\WebMatrix.Data.dll
+C:\Users\ankur.sachdeva\Desktop\2 Aug 13\lg 10\soln\LG_10_Exercise_01\LG_10_Exercise_01\bin\WebMatrix.WebData.dll
+C:\Users\ankur.sachdeva\Desktop\2 Aug 13\lg 10\soln\LG_10_Exercise_01\LG_10_Exercise_01\bin\EntityFramework.xml
+C:\Users\ankur.sachdeva\Desktop\2 Aug 13\lg 10\soln\LG_10_Exercise_01\LG_10_Exercise_01\bin\Newtonsoft.Json.xml
+C:\Users\ankur.sachdeva\Desktop\2 Aug 13\lg 10\soln\LG_10_Exercise_01\LG_10_Exercise_01\bin\System.Net.Http.Formatting.xml
+C:\Users\ankur.sachdeva\Desktop\2 Aug 13\lg 10\soln\LG_10_Exercise_01\LG_10_Exercise_01\bin\System.Web.Helpers.xml
+C:\Users\ankur.sachdeva\Desktop\2 Aug 13\lg 10\soln\LG_10_Exercise_01\LG_10_Exercise_01\bin\System.Web.Http.xml
+C:\Users\ankur.sachdeva\Desktop\2 Aug 13\lg 10\soln\LG_10_Exercise_01\LG_10_Exercise_01\bin\System.Web.Http.WebHost.xml
+C:\Users\ankur.sachdeva\Desktop\2 Aug 13\lg 10\soln\LG_10_Exercise_01\LG_10_Exercise_01\bin\System.Web.Mvc.xml
+C:\Users\ankur.sachdeva\Desktop\2 Aug 13\lg 10\soln\LG_10_Exercise_01\LG_10_Exercise_01\bin\System.Web.Razor.xml
+C:\Users\ankur.sachdeva\Desktop\2 Aug 13\lg 10\soln\LG_10_Exercise_01\LG_10_Exercise_01\bin\System.Web.WebPages.xml
+C:\Users\ankur.sachdeva\Desktop\2 Aug 13\lg 10\soln\LG_10_Exercise_01\LG_10_Exercise_01\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ankur.sachdeva\Desktop\2 Aug 13\lg 10\soln\LG_10_Exercise_01\LG_10_Exercise_01\bin\System.Web.WebPages.Razor.xml
+C:\Users\ankur.sachdeva\Desktop\2 Aug 13\lg 10\soln\LG_10_Exercise_01\LG_10_Exercise_01\bin\WebMatrix.Data.xml
+C:\Users\ankur.sachdeva\Desktop\2 Aug 13\lg 10\soln\LG_10_Exercise_01\LG_10_Exercise_01\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\ankur.sachdeva\Desktop\2 Aug 13\lg 10\soln\LG_10_Exercise_01\LG_10_Exercise_01\bin\WebMatrix.WebData.xml
+C:\Users\ankur.sachdeva\Desktop\2 Aug 13\lg 10\soln\LG_10_Exercise_01\LG_10_Exercise_01\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\ankur.sachdeva\Desktop\2 Aug 13\lg 10\soln\LG_10_Exercise_01\LG_10_Exercise_01\bin\DotNetOpenAuth.Core.xml
+C:\Users\ankur.sachdeva\Desktop\2 Aug 13\lg 10\soln\LG_10_Exercise_01\LG_10_Exercise_01\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\ankur.sachdeva\Desktop\2 Aug 13\lg 10\soln\LG_10_Exercise_01\LG_10_Exercise_01\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\ankur.sachdeva\Desktop\2 Aug 13\lg 10\soln\LG_10_Exercise_01\LG_10_Exercise_01\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\ankur.sachdeva\Desktop\2 Aug 13\lg 10\soln\LG_10_Exercise_01\LG_10_Exercise_01\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\ankur.sachdeva\Desktop\2 Aug 13\lg 10\soln\LG_10_Exercise_01\LG_10_Exercise_01\obj\Debug\LG_10_Exercise_01.csprojResolveAssemblyReference.cache
+C:\Users\ankur.sachdeva\Desktop\2 Aug 13\lg 10\soln\LG_10_Exercise_01\LG_10_Exercise_01\obj\Debug\LG_10_Exercise_01.Migrations.InitialCreate.resources
+C:\Users\ankur.sachdeva\Desktop\2 Aug 13\lg 10\soln\LG_10_Exercise_01\LG_10_Exercise_01\obj\Debug\LG_10_Exercise_01.csproj.GenerateResource.Cache
+C:\Users\ankur.sachdeva\Desktop\2 Aug 13\lg 10\soln\LG_10_Exercise_01\LG_10_Exercise_01\obj\Debug\LG_10_Exercise_01.dll
+C:\Users\ankur.sachdeva\Desktop\2 Aug 13\lg 10\soln\LG_10_Exercise_01\LG_10_Exercise_01\obj\Debug\LG_10_Exercise_01.pdb
+E:\Software\ASPNETMVC\Activities and Exercises\Chapter 10\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\LG_10_Exercise_01.dll.config
+E:\Software\ASPNETMVC\Activities and Exercises\Chapter 10\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\LG_10_Exercise_01.dll
+E:\Software\ASPNETMVC\Activities and Exercises\Chapter 10\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\LG_10_Exercise_01.pdb
+E:\Software\ASPNETMVC\Activities and Exercises\Chapter 10\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\Antlr3.Runtime.dll
+E:\Software\ASPNETMVC\Activities and Exercises\Chapter 10\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\DotNetOpenAuth.AspNet.dll
+E:\Software\ASPNETMVC\Activities and Exercises\Chapter 10\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\DotNetOpenAuth.Core.dll
+E:\Software\ASPNETMVC\Activities and Exercises\Chapter 10\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\DotNetOpenAuth.OAuth.Consumer.dll
+E:\Software\ASPNETMVC\Activities and Exercises\Chapter 10\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\DotNetOpenAuth.OAuth.dll
+E:\Software\ASPNETMVC\Activities and Exercises\Chapter 10\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\DotNetOpenAuth.OpenId.dll
+E:\Software\ASPNETMVC\Activities and Exercises\Chapter 10\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+E:\Software\ASPNETMVC\Activities and Exercises\Chapter 10\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\EntityFramework.dll
+E:\Software\ASPNETMVC\Activities and Exercises\Chapter 10\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\Microsoft.Web.Infrastructure.dll
+E:\Software\ASPNETMVC\Activities and Exercises\Chapter 10\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\Microsoft.Web.WebPages.OAuth.dll
+E:\Software\ASPNETMVC\Activities and Exercises\Chapter 10\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\Newtonsoft.Json.dll
+E:\Software\ASPNETMVC\Activities and Exercises\Chapter 10\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\System.Net.Http.Formatting.dll
+E:\Software\ASPNETMVC\Activities and Exercises\Chapter 10\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\System.Web.Helpers.dll
+E:\Software\ASPNETMVC\Activities and Exercises\Chapter 10\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\System.Web.Http.dll
+E:\Software\ASPNETMVC\Activities and Exercises\Chapter 10\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\System.Web.Http.WebHost.dll
+E:\Software\ASPNETMVC\Activities and Exercises\Chapter 10\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\System.Web.Mvc.dll
+E:\Software\ASPNETMVC\Activities and Exercises\Chapter 10\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\System.Web.Optimization.dll
+E:\Software\ASPNETMVC\Activities and Exercises\Chapter 10\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\System.Web.Razor.dll
+E:\Software\ASPNETMVC\Activities and Exercises\Chapter 10\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\System.Web.WebPages.Deployment.dll
+E:\Software\ASPNETMVC\Activities and Exercises\Chapter 10\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\System.Web.WebPages.dll
+E:\Software\ASPNETMVC\Activities and Exercises\Chapter 10\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\System.Web.WebPages.Razor.dll
+E:\Software\ASPNETMVC\Activities and Exercises\Chapter 10\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\WebGrease.dll
+E:\Software\ASPNETMVC\Activities and Exercises\Chapter 10\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\WebMatrix.Data.dll
+E:\Software\ASPNETMVC\Activities and Exercises\Chapter 10\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\WebMatrix.WebData.dll
+E:\Software\ASPNETMVC\Activities and Exercises\Chapter 10\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\EntityFramework.xml
+E:\Software\ASPNETMVC\Activities and Exercises\Chapter 10\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\Newtonsoft.Json.xml
+E:\Software\ASPNETMVC\Activities and Exercises\Chapter 10\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\System.Net.Http.Formatting.xml
+E:\Software\ASPNETMVC\Activities and Exercises\Chapter 10\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\System.Web.Helpers.xml
+E:\Software\ASPNETMVC\Activities and Exercises\Chapter 10\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\System.Web.Http.xml
+E:\Software\ASPNETMVC\Activities and Exercises\Chapter 10\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\System.Web.Http.WebHost.xml
+E:\Software\ASPNETMVC\Activities and Exercises\Chapter 10\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\System.Web.Mvc.xml
+E:\Software\ASPNETMVC\Activities and Exercises\Chapter 10\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\System.Web.Razor.xml
+E:\Software\ASPNETMVC\Activities and Exercises\Chapter 10\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\System.Web.WebPages.xml
+E:\Software\ASPNETMVC\Activities and Exercises\Chapter 10\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\System.Web.WebPages.Deployment.xml
+E:\Software\ASPNETMVC\Activities and Exercises\Chapter 10\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\System.Web.WebPages.Razor.xml
+E:\Software\ASPNETMVC\Activities and Exercises\Chapter 10\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\WebMatrix.Data.xml
+E:\Software\ASPNETMVC\Activities and Exercises\Chapter 10\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\Microsoft.Web.WebPages.OAuth.xml
+E:\Software\ASPNETMVC\Activities and Exercises\Chapter 10\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\WebMatrix.WebData.xml
+E:\Software\ASPNETMVC\Activities and Exercises\Chapter 10\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\DotNetOpenAuth.AspNet.xml
+E:\Software\ASPNETMVC\Activities and Exercises\Chapter 10\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\DotNetOpenAuth.Core.xml
+E:\Software\ASPNETMVC\Activities and Exercises\Chapter 10\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\DotNetOpenAuth.OAuth.Consumer.xml
+E:\Software\ASPNETMVC\Activities and Exercises\Chapter 10\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\DotNetOpenAuth.OAuth.xml
+E:\Software\ASPNETMVC\Activities and Exercises\Chapter 10\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\DotNetOpenAuth.OpenId.xml
+E:\Software\ASPNETMVC\Activities and Exercises\Chapter 10\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+E:\Software\ASPNETMVC\Activities and Exercises\Chapter 10\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\obj\Debug\LG_10_Exercise_01.csprojResolveAssemblyReference.cache
+E:\Software\ASPNETMVC\Activities and Exercises\Chapter 10\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\obj\Debug\LG_10_Exercise_01.Migrations.InitialCreate.resources
+E:\Software\ASPNETMVC\Activities and Exercises\Chapter 10\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\obj\Debug\LG_10_Exercise_01.csproj.GenerateResource.Cache
+E:\Software\ASPNETMVC\Activities and Exercises\Chapter 10\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\obj\Debug\LG_10_Exercise_01.dll
+E:\Software\ASPNETMVC\Activities and Exercises\Chapter 10\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\obj\Debug\LG_10_Exercise_01.pdb
+C:\Users\Hari Shankar Singh\Desktop\project\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\LG_10_Exercise_01.dll.config
+C:\Users\Hari Shankar Singh\Desktop\project\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\LG_10_Exercise_01.dll
+C:\Users\Hari Shankar Singh\Desktop\project\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\LG_10_Exercise_01.pdb
+C:\Users\Hari Shankar Singh\Desktop\project\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\Antlr3.Runtime.dll
+C:\Users\Hari Shankar Singh\Desktop\project\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Hari Shankar Singh\Desktop\project\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\DotNetOpenAuth.Core.dll
+C:\Users\Hari Shankar Singh\Desktop\project\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Hari Shankar Singh\Desktop\project\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Hari Shankar Singh\Desktop\project\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Hari Shankar Singh\Desktop\project\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Hari Shankar Singh\Desktop\project\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\EntityFramework.dll
+C:\Users\Hari Shankar Singh\Desktop\project\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Hari Shankar Singh\Desktop\project\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\Hari Shankar Singh\Desktop\project\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\Newtonsoft.Json.dll
+C:\Users\Hari Shankar Singh\Desktop\project\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\System.Net.Http.Formatting.dll
+C:\Users\Hari Shankar Singh\Desktop\project\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\System.Web.Helpers.dll
+C:\Users\Hari Shankar Singh\Desktop\project\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\System.Web.Http.dll
+C:\Users\Hari Shankar Singh\Desktop\project\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\System.Web.Http.WebHost.dll
+C:\Users\Hari Shankar Singh\Desktop\project\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\System.Web.Mvc.dll
+C:\Users\Hari Shankar Singh\Desktop\project\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\System.Web.Optimization.dll
+C:\Users\Hari Shankar Singh\Desktop\project\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\System.Web.Razor.dll
+C:\Users\Hari Shankar Singh\Desktop\project\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Hari Shankar Singh\Desktop\project\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\System.Web.WebPages.dll
+C:\Users\Hari Shankar Singh\Desktop\project\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\System.Web.WebPages.Razor.dll
+C:\Users\Hari Shankar Singh\Desktop\project\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\WebGrease.dll
+C:\Users\Hari Shankar Singh\Desktop\project\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\WebMatrix.Data.dll
+C:\Users\Hari Shankar Singh\Desktop\project\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\WebMatrix.WebData.dll
+C:\Users\Hari Shankar Singh\Desktop\project\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\EntityFramework.xml
+C:\Users\Hari Shankar Singh\Desktop\project\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\Newtonsoft.Json.xml
+C:\Users\Hari Shankar Singh\Desktop\project\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\System.Net.Http.Formatting.xml
+C:\Users\Hari Shankar Singh\Desktop\project\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\System.Web.Helpers.xml
+C:\Users\Hari Shankar Singh\Desktop\project\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\System.Web.Http.xml
+C:\Users\Hari Shankar Singh\Desktop\project\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\System.Web.Http.WebHost.xml
+C:\Users\Hari Shankar Singh\Desktop\project\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\System.Web.Mvc.xml
+C:\Users\Hari Shankar Singh\Desktop\project\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\System.Web.Razor.xml
+C:\Users\Hari Shankar Singh\Desktop\project\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\System.Web.WebPages.xml
+C:\Users\Hari Shankar Singh\Desktop\project\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Hari Shankar Singh\Desktop\project\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\System.Web.WebPages.Razor.xml
+C:\Users\Hari Shankar Singh\Desktop\project\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\WebMatrix.Data.xml
+C:\Users\Hari Shankar Singh\Desktop\project\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\Hari Shankar Singh\Desktop\project\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\WebMatrix.WebData.xml
+C:\Users\Hari Shankar Singh\Desktop\project\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Hari Shankar Singh\Desktop\project\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\DotNetOpenAuth.Core.xml
+C:\Users\Hari Shankar Singh\Desktop\project\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Hari Shankar Singh\Desktop\project\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Hari Shankar Singh\Desktop\project\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Hari Shankar Singh\Desktop\project\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Hari Shankar Singh\Desktop\project\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\obj\Debug\LG_10_Exercise_01.csproj.AssemblyReference.cache
+C:\Users\Hari Shankar Singh\Desktop\project\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\obj\Debug\LG_10_Exercise_01.Migrations.InitialCreate.resources
+C:\Users\Hari Shankar Singh\Desktop\project\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\obj\Debug\LG_10_Exercise_01.csproj.GenerateResource.cache
+C:\Users\Hari Shankar Singh\Desktop\project\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\obj\Debug\LG_10_Exercise_01.csproj.CoreCompileInputs.cache
+C:\Users\Hari Shankar Singh\Desktop\project\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\obj\Debug\LG_10_Exercise_01.csproj.CopyComplete
+C:\Users\Hari Shankar Singh\Desktop\project\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\obj\Debug\LG_10_Exercise_01.dll
+C:\Users\Hari Shankar Singh\Desktop\project\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\obj\Debug\LG_10_Exercise_01.pdb
+C:\Users\Hari Shankar Singh\Desktop\E-gift corner project NIIT\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\LG_10_Exercise_01.dll.config
+C:\Users\Hari Shankar Singh\Desktop\E-gift corner project NIIT\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\LG_10_Exercise_01.dll
+C:\Users\Hari Shankar Singh\Desktop\E-gift corner project NIIT\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\LG_10_Exercise_01.pdb
+C:\Users\Hari Shankar Singh\Desktop\E-gift corner project NIIT\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\Antlr3.Runtime.dll
+C:\Users\Hari Shankar Singh\Desktop\E-gift corner project NIIT\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Hari Shankar Singh\Desktop\E-gift corner project NIIT\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\DotNetOpenAuth.Core.dll
+C:\Users\Hari Shankar Singh\Desktop\E-gift corner project NIIT\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Hari Shankar Singh\Desktop\E-gift corner project NIIT\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Hari Shankar Singh\Desktop\E-gift corner project NIIT\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Hari Shankar Singh\Desktop\E-gift corner project NIIT\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Hari Shankar Singh\Desktop\E-gift corner project NIIT\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\EntityFramework.dll
+C:\Users\Hari Shankar Singh\Desktop\E-gift corner project NIIT\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Hari Shankar Singh\Desktop\E-gift corner project NIIT\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\Hari Shankar Singh\Desktop\E-gift corner project NIIT\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\Newtonsoft.Json.dll
+C:\Users\Hari Shankar Singh\Desktop\E-gift corner project NIIT\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\System.Net.Http.Formatting.dll
+C:\Users\Hari Shankar Singh\Desktop\E-gift corner project NIIT\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\System.Web.Helpers.dll
+C:\Users\Hari Shankar Singh\Desktop\E-gift corner project NIIT\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\System.Web.Http.dll
+C:\Users\Hari Shankar Singh\Desktop\E-gift corner project NIIT\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\System.Web.Http.WebHost.dll
+C:\Users\Hari Shankar Singh\Desktop\E-gift corner project NIIT\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\System.Web.Mvc.dll
+C:\Users\Hari Shankar Singh\Desktop\E-gift corner project NIIT\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\System.Web.Optimization.dll
+C:\Users\Hari Shankar Singh\Desktop\E-gift corner project NIIT\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\System.Web.Razor.dll
+C:\Users\Hari Shankar Singh\Desktop\E-gift corner project NIIT\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Hari Shankar Singh\Desktop\E-gift corner project NIIT\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\System.Web.WebPages.dll
+C:\Users\Hari Shankar Singh\Desktop\E-gift corner project NIIT\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\System.Web.WebPages.Razor.dll
+C:\Users\Hari Shankar Singh\Desktop\E-gift corner project NIIT\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\WebGrease.dll
+C:\Users\Hari Shankar Singh\Desktop\E-gift corner project NIIT\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\WebMatrix.Data.dll
+C:\Users\Hari Shankar Singh\Desktop\E-gift corner project NIIT\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\WebMatrix.WebData.dll
+C:\Users\Hari Shankar Singh\Desktop\E-gift corner project NIIT\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\EntityFramework.xml
+C:\Users\Hari Shankar Singh\Desktop\E-gift corner project NIIT\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\Newtonsoft.Json.xml
+C:\Users\Hari Shankar Singh\Desktop\E-gift corner project NIIT\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\System.Net.Http.Formatting.xml
+C:\Users\Hari Shankar Singh\Desktop\E-gift corner project NIIT\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\System.Web.Helpers.xml
+C:\Users\Hari Shankar Singh\Desktop\E-gift corner project NIIT\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\System.Web.Http.xml
+C:\Users\Hari Shankar Singh\Desktop\E-gift corner project NIIT\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\System.Web.Http.WebHost.xml
+C:\Users\Hari Shankar Singh\Desktop\E-gift corner project NIIT\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\System.Web.Mvc.xml
+C:\Users\Hari Shankar Singh\Desktop\E-gift corner project NIIT\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\System.Web.Razor.xml
+C:\Users\Hari Shankar Singh\Desktop\E-gift corner project NIIT\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\System.Web.WebPages.xml
+C:\Users\Hari Shankar Singh\Desktop\E-gift corner project NIIT\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Hari Shankar Singh\Desktop\E-gift corner project NIIT\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\System.Web.WebPages.Razor.xml
+C:\Users\Hari Shankar Singh\Desktop\E-gift corner project NIIT\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\WebMatrix.Data.xml
+C:\Users\Hari Shankar Singh\Desktop\E-gift corner project NIIT\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\Hari Shankar Singh\Desktop\E-gift corner project NIIT\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\WebMatrix.WebData.xml
+C:\Users\Hari Shankar Singh\Desktop\E-gift corner project NIIT\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Hari Shankar Singh\Desktop\E-gift corner project NIIT\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\DotNetOpenAuth.Core.xml
+C:\Users\Hari Shankar Singh\Desktop\E-gift corner project NIIT\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Hari Shankar Singh\Desktop\E-gift corner project NIIT\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Hari Shankar Singh\Desktop\E-gift corner project NIIT\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Hari Shankar Singh\Desktop\E-gift corner project NIIT\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Hari Shankar Singh\Desktop\E-gift corner project NIIT\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\obj\Debug\LG_10_Exercise_01.csproj.AssemblyReference.cache
+C:\Users\Hari Shankar Singh\Desktop\E-gift corner project NIIT\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\obj\Debug\LG_10_Exercise_01.Migrations.InitialCreate.resources
+C:\Users\Hari Shankar Singh\Desktop\E-gift corner project NIIT\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\obj\Debug\LG_10_Exercise_01.csproj.GenerateResource.cache
+C:\Users\Hari Shankar Singh\Desktop\E-gift corner project NIIT\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\obj\Debug\LG_10_Exercise_01.csproj.CoreCompileInputs.cache
+C:\Users\Hari Shankar Singh\Desktop\E-gift corner project NIIT\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\obj\Debug\LG_10_Exercise_01.csproj.CopyComplete
+C:\Users\Hari Shankar Singh\Desktop\E-gift corner project NIIT\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\obj\Debug\LG_10_Exercise_01.dll
+C:\Users\Hari Shankar Singh\Desktop\E-gift corner project NIIT\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\obj\Debug\LG_10_Exercise_01.pdb
+C:\Users\HariShankarSingh\Downloads\Exercise 1-20240414T112229Z-001\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\LG_10_Exercise_01.dll.config
+C:\Users\HariShankarSingh\Downloads\Exercise 1-20240414T112229Z-001\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\LG_10_Exercise_01.dll
+C:\Users\HariShankarSingh\Downloads\Exercise 1-20240414T112229Z-001\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\LG_10_Exercise_01.pdb
+C:\Users\HariShankarSingh\Downloads\Exercise 1-20240414T112229Z-001\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\Antlr3.Runtime.dll
+C:\Users\HariShankarSingh\Downloads\Exercise 1-20240414T112229Z-001\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\HariShankarSingh\Downloads\Exercise 1-20240414T112229Z-001\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\DotNetOpenAuth.Core.dll
+C:\Users\HariShankarSingh\Downloads\Exercise 1-20240414T112229Z-001\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\HariShankarSingh\Downloads\Exercise 1-20240414T112229Z-001\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\HariShankarSingh\Downloads\Exercise 1-20240414T112229Z-001\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\HariShankarSingh\Downloads\Exercise 1-20240414T112229Z-001\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\HariShankarSingh\Downloads\Exercise 1-20240414T112229Z-001\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\EntityFramework.dll
+C:\Users\HariShankarSingh\Downloads\Exercise 1-20240414T112229Z-001\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HariShankarSingh\Downloads\Exercise 1-20240414T112229Z-001\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\HariShankarSingh\Downloads\Exercise 1-20240414T112229Z-001\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\Newtonsoft.Json.dll
+C:\Users\HariShankarSingh\Downloads\Exercise 1-20240414T112229Z-001\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\System.Net.Http.Formatting.dll
+C:\Users\HariShankarSingh\Downloads\Exercise 1-20240414T112229Z-001\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\System.Web.Helpers.dll
+C:\Users\HariShankarSingh\Downloads\Exercise 1-20240414T112229Z-001\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\System.Web.Http.dll
+C:\Users\HariShankarSingh\Downloads\Exercise 1-20240414T112229Z-001\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\System.Web.Http.WebHost.dll
+C:\Users\HariShankarSingh\Downloads\Exercise 1-20240414T112229Z-001\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\System.Web.Mvc.dll
+C:\Users\HariShankarSingh\Downloads\Exercise 1-20240414T112229Z-001\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\System.Web.Optimization.dll
+C:\Users\HariShankarSingh\Downloads\Exercise 1-20240414T112229Z-001\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\System.Web.Razor.dll
+C:\Users\HariShankarSingh\Downloads\Exercise 1-20240414T112229Z-001\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\System.Web.WebPages.Deployment.dll
+C:\Users\HariShankarSingh\Downloads\Exercise 1-20240414T112229Z-001\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\System.Web.WebPages.dll
+C:\Users\HariShankarSingh\Downloads\Exercise 1-20240414T112229Z-001\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\System.Web.WebPages.Razor.dll
+C:\Users\HariShankarSingh\Downloads\Exercise 1-20240414T112229Z-001\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\WebGrease.dll
+C:\Users\HariShankarSingh\Downloads\Exercise 1-20240414T112229Z-001\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\WebMatrix.Data.dll
+C:\Users\HariShankarSingh\Downloads\Exercise 1-20240414T112229Z-001\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\WebMatrix.WebData.dll
+C:\Users\HariShankarSingh\Downloads\Exercise 1-20240414T112229Z-001\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\EntityFramework.xml
+C:\Users\HariShankarSingh\Downloads\Exercise 1-20240414T112229Z-001\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\Newtonsoft.Json.xml
+C:\Users\HariShankarSingh\Downloads\Exercise 1-20240414T112229Z-001\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\System.Net.Http.Formatting.xml
+C:\Users\HariShankarSingh\Downloads\Exercise 1-20240414T112229Z-001\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\System.Web.Helpers.xml
+C:\Users\HariShankarSingh\Downloads\Exercise 1-20240414T112229Z-001\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\System.Web.Http.xml
+C:\Users\HariShankarSingh\Downloads\Exercise 1-20240414T112229Z-001\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\System.Web.Http.WebHost.xml
+C:\Users\HariShankarSingh\Downloads\Exercise 1-20240414T112229Z-001\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\System.Web.Mvc.xml
+C:\Users\HariShankarSingh\Downloads\Exercise 1-20240414T112229Z-001\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\System.Web.Razor.xml
+C:\Users\HariShankarSingh\Downloads\Exercise 1-20240414T112229Z-001\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\System.Web.WebPages.xml
+C:\Users\HariShankarSingh\Downloads\Exercise 1-20240414T112229Z-001\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\System.Web.WebPages.Deployment.xml
+C:\Users\HariShankarSingh\Downloads\Exercise 1-20240414T112229Z-001\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\System.Web.WebPages.Razor.xml
+C:\Users\HariShankarSingh\Downloads\Exercise 1-20240414T112229Z-001\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\WebMatrix.Data.xml
+C:\Users\HariShankarSingh\Downloads\Exercise 1-20240414T112229Z-001\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\HariShankarSingh\Downloads\Exercise 1-20240414T112229Z-001\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\WebMatrix.WebData.xml
+C:\Users\HariShankarSingh\Downloads\Exercise 1-20240414T112229Z-001\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\HariShankarSingh\Downloads\Exercise 1-20240414T112229Z-001\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\DotNetOpenAuth.Core.xml
+C:\Users\HariShankarSingh\Downloads\Exercise 1-20240414T112229Z-001\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\HariShankarSingh\Downloads\Exercise 1-20240414T112229Z-001\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\HariShankarSingh\Downloads\Exercise 1-20240414T112229Z-001\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\HariShankarSingh\Downloads\Exercise 1-20240414T112229Z-001\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\HariShankarSingh\Downloads\Exercise 1-20240414T112229Z-001\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\obj\Debug\LG_10_Exercise_01.csproj.AssemblyReference.cache
+C:\Users\HariShankarSingh\Downloads\Exercise 1-20240414T112229Z-001\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\obj\Debug\LG_10_Exercise_01.Migrations.InitialCreate.resources
+C:\Users\HariShankarSingh\Downloads\Exercise 1-20240414T112229Z-001\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\obj\Debug\LG_10_Exercise_01.csproj.GenerateResource.cache
+C:\Users\HariShankarSingh\Downloads\Exercise 1-20240414T112229Z-001\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\obj\Debug\LG_10_Exercise_01.csproj.CoreCompileInputs.cache
+C:\Users\HariShankarSingh\Downloads\Exercise 1-20240414T112229Z-001\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\obj\Debug\LG_10_Ex.DAB78125.Up2Date
+C:\Users\HariShankarSingh\Downloads\Exercise 1-20240414T112229Z-001\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\obj\Debug\LG_10_Exercise_01.dll
+C:\Users\HariShankarSingh\Downloads\Exercise 1-20240414T112229Z-001\Exercise 1\Exercise 1\Solution Files\LG_10_Exercise_01\LG_10_Exercise_01\obj\Debug\LG_10_Exercise_01.pdb

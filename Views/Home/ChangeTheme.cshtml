@@ -1,0 +1,19 @@
+﻿@{
+    ViewBag.Title = "ChangeTheme";
+}
+<br />
+
+@using (Html.BeginForm()){
+
+
+
+ <span> Select theme: </span>
+    @Html.DropDownList("theme",(SelectList)ViewBag.Theme,String.Empty);
+<br />
+<br />
+
+     <p>
+            <input type="submit" value="Submit" />
+        </p>
+
+}

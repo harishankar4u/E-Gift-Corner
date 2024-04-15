@@ -1,0 +1,93 @@
+﻿@{
+    ViewBag.Title = "Create";
+    Layout = "~/Views/Shared/_NestedLayout.cshtml";
+}
+      <script src="~/Scripts/jquery-1.7.1.js"></script>
+                <script src="~/Scripts/jquery-ui-1.8.20.js"></script>
+    
+        <tr>
+          <td>&nbsp;</td>
+        </tr>
+
+    
+        <tr>
+          <td style="font-size:12px; ">
+@model LG_10_Exercise_01.Models.Feedback
+
+@{
+    ViewBag.Title = "Feedback";
+}
+
+<h2>Feedback Page</h2>
+
+@using (Html.BeginForm()) {
+    @Html.ValidationSummary(false)
+
+    <fieldset>
+        <legend>Feedback</legend>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Customer_Name)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.Customer_Name)
+            @Html.ValidationMessageFor(model => model.Customer_Name,"*")
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Email)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.Email)
+            @Html.ValidationMessageFor(model => model.Email,"*")
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Phone_Number)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.Phone_Number)
+            @Html.ValidationMessageFor(model => model.Phone_Number,"*")
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Message_Type)
+        </div>
+        <div class="editor-field">
+             @Html.RadioButtonFor(model => model.Message_Type,"Comment") Comment 
+         @Html.RadioButtonFor(model => model.Message_Type, "Complaint") Complaint
+              @Html.RadioButtonFor(model => model.Message_Type,"Request") Request
+            @Html.ValidationMessageFor(model => model.Message_Type,"*")
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Regarding)
+        </div>
+        <div class="editor-field">
+            @Html.DropDownListFor(model=>model.Regarding,(SelectList)ViewBag.category,String.Empty)
+            @Html.ValidationMessageFor(model => model.Regarding,"*")
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Your_Message)
+        </div>
+        <div class="editor-field">
+             @Html.TextAreaFor(mode=>Model.Your_Message, 5, 20, null)
+            @Html.ValidationMessageFor(model => model.Your_Message,"*")
+        </div>
+
+        <p>
+            <input type="submit" value="Submit" />
+        </p>
+    </fieldset>
+}
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}
+</td>
+        </tr>
+        <br />
+<br />
+Last updated on: @System.DateTime.Now
+

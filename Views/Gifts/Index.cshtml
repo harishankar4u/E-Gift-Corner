@@ -1,0 +1,83 @@
+﻿@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<table style="width: 98%; padding: 0; border-collapse: collapse; margin-left: auto; margin-right: auto" border="0">
+    <tr>
+        <td>&nbsp;</td>
+    </tr>
+
+
+    <tr>
+        <td style="font-size: 12px;">
+            @model IEnumerable<LG_10_Exercise_01.Models.Gift>
+
+            @{
+                ViewBag.Title = "Index";
+            }
+
+            @section scripts{
+                <script src="~/Scripts/jquery-ui-1.8.20.js"></script>
+                <script src="@Url.Content("~/Scripts/jquery.unobtrusive-ajax.js")"></script>
+            }
+
+            <p style="color: #f5eb8e; font-size: medium;">
+                @Html.ActionLink("Create New", "Create")
+                @Html.ActionLink("Import Gift Items", "ImportGiftItems")
+            </p>
+            <p>
+
+                
+
+                @using (Ajax.BeginForm("Index", "Gifts",
+new AjaxOptions
+{
+    InsertionMode = InsertionMode.Replace,
+    HttpMethod = "POST",
+    LoadingElementId = "ajax-loader",
+    UpdateTargetId = "filterResultDiv",
+}))
+                {
+                    <div style="float: left; padding: 5px; margin: 10px; font-weight: bold;">
+                        Filter by Category
+                    </div>
+                    <div style="float: left; padding: 5px; margin: 10px; font-weight: bold;">
+                        @Html.DropDownList("GiftList", "All")
+                    </div>
+                    <div style="float: left; padding: 5px; margin: 10px; font-weight: bold;">
+                        Price Range
+                    </div>
+                    <div style="float: left; padding: 5px; margin: 10px; font-weight: bold;">
+                        <select id="priceRange" name="priceRange">
+                            <option value="null" selected="selected">All</option>
+                            <option value="1">Less than $50</option>
+                            <option value="2">Between $50 and $100</option>
+                            <option value="3">More than $100</option>
+                        </select>
+                    </div>
+                    <div style="float: left; padding: 5px; margin: 10px; font-weight: bold;">
+                        <input type="submit" value="Filter Gifts" />
+                    </div>
+                    <br />
+
+                    <span id="ajax-loader" style="display:none;">Filtering gifts. Please wait...</span> 
+                }
+                
+            </p>
+            <br />
+
+            <p>
+                <div id="filterResultDiv" style="padding: 5px; margin: 10px;">
+
+                  @if (ViewBag.method == "get") {
+                      Html.RenderPartial("_FilteredGifts", Model);
+                  }
+
+                </div>
+            </p>
+        </td>
+    </tr>
+
+
+</table>
+

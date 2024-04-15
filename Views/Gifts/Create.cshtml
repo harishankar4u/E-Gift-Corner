@@ -1,0 +1,76 @@
+﻿@{
+    ViewBag.Title = "Create";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+     <table style="width:98%;padding:0; border-collapse:collapse; margin-left:auto;margin-right:auto" border="0">
+        <tr>
+          <td>&nbsp;</td>
+        </tr>
+
+    
+        <tr>
+          <td style="font-size:12px; ">
+@model LG_10_Exercise_01.Models.Gift
+
+@{
+    ViewBag.Title = "Create";
+}
+
+
+
+@using (Html.BeginForm()) {
+    @Html.ValidationSummary(true)
+
+    <fieldset>
+        <legend>Gift</legend>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Gift_Name)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.Gift_Name)
+            @Html.ValidationMessageFor(model => model.Gift_Name)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Details)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.Details)
+            @Html.ValidationMessageFor(model => model.Details)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Price)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.Price)
+            @Html.ValidationMessageFor(model => model.Price)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.GiftCategoryID, "giftcategory")
+        </div>
+        <div class="editor-field">
+            @Html.DropDownList("GiftCategoryID", String.Empty)
+            @Html.ValidationMessageFor(model => model.GiftCategoryID)
+        </div>
+
+        <p>
+            <input type="submit" value="Create" />
+        </p>
+    </fieldset>
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}
+              </td>
+        </tr>
+        
+      </table>

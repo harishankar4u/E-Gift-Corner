@@ -1,0 +1,59 @@
+﻿  @model IEnumerable<LG_10_Exercise_01.Models.Gift>
+@section scripts{
+    <script src="~/Scripts/Highlight.js"></script>
+}
+<link href="~/Content/Custom.css" rel="stylesheet" />
+<table border="1" style="width: 100%; border-collapse: separate; border-color: black; border-style: solid; border-width: 1px;">
+
+                        @{
+                            if (Model.Count<LG_10_Exercise_01.Models.Gift>() > 0)
+                            {
+                            <tr>
+                                <th>
+                                    @Html.DisplayNameFor(model => model.Gift_Name)
+                                </th>
+                                <th>
+                                    @Html.DisplayNameFor(model => model.Details)
+                                </th>
+                                <th>
+                                    @Html.DisplayNameFor(model => model.Price)
+                                </th>
+                                <th>
+                                    @Html.DisplayNameFor(model => model.giftcategory.strCategory)
+                                </th>
+                                <th></th>
+                            </tr >
+    
+                                foreach (var item in Model)
+                                {
+                            <tr class="row">
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.Gift_Name)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.Details)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.Price)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.giftcategory.strCategory)
+                                </td>
+                                <td>
+                                    @Html.ActionLink("Edit", "Edit", new { id = item.ID }) |
+            @Html.ActionLink("Details", "Details", new { id = item.ID }) |
+            @Html.ActionLink("Delete", "Delete", new { id = item.ID })
+                                </td>
+                            </tr>
+                                }
+                            }
+                            else
+                            {
+                            <font style="color: red;"><h3>No gifts exists.</h3></font>
+                            }
+        
+                        }
+
+
+
+                    </table>

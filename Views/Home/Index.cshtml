@@ -1,0 +1,81 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+  
+}
+
+@section footer{
+
+    <td style="width: 10%">&nbsp;</td>
+    <td style="height: 15px; background-color: #ffcc00; color: #000">&copy;2013 Gift Gallery. All rights reserved.</td>
+    <td style="width: 10%">&nbsp;</td>
+
+
+}
+
+@section scripts{
+<script src="~/Scripts/jquery-ui-1.8.20.js"></script>
+<script src="~/Scripts/Accord.js"></script>
+<script src="~/Scripts/AnimateImages.js"></script>
+    }
+<link href="~/Content/Custom.css" rel="stylesheet" />
+<table style="width: 98%; padding: 0; border-collapse: collapse; margin-left: auto; margin-right: auto" border="0">
+    <tr>
+        <td>&nbsp;</td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold;">Featured Products</td>
+    </tr>
+    <tr>
+        <td>
+            <table style="width: 100%; padding: 0; border-collapse: collapse" border="0">
+
+                <tr style="height: 230px">
+                    <td style="height: 230px">
+                        <!-- code -->
+                        @Html.Action("CategoriesList")
+                  
+                    </td>
+
+                    <td style="font-size: 12px; padding-left: 10px; height: 230px;">
+                        <div style="height: 150px; width: 150px; float: left">
+                            <img class="product" src="../../images/pro1.jpg" width="103" height="103">
+                        </div>
+                        <div style="height: 150px; width: 150px; float: left">
+                            <img class="product" src="../../images/pro2.jpg" width="103" height="103">
+                        </div>
+                        <div style="height: 150px; width: 150px; float: left">
+                            <img class="product" src="../../images/pro3.jpg" width="103" height="103">
+                        </div>
+                        <div style="height: 150px; width: 150px; float: left">
+                            <img class="product" src="../../images/pro4.jpg" width="103" height="103">
+                        </div>
+                        <div style="height: 150px; width: 150px; float: left">
+                            <img class="product" src="../../images/pro5.jpg" width="103" height="103">
+                        </div>
+                        <div style="height: 150px; width: 150px; float: left">
+                            <img class="product" src="../../images/pro6.jpg" width="103" height="103">
+                        </div>
+
+                        <br />
+                        <br />
+                        <div style="float:left; padding: 10px;">
+                            Gift Gallery is the store for people who enjoy collecting gifts and for those discriminating shoppers who like to give unique gifts. We ensure the industry standard of customer service and provides best offers to our customers.
+                        <br />
+                            <br />
+                            <br />
+                            <p>More from Gift Gallery.....</p>
+                            <ul>
+                                <li>Awesome Range of GARFIELD Products - Mugs, Sippers, Cushions, Clocks, Keychains and more....</li>
+                                <li>New Range of FUNKY GIFTS Telephones, Players, Desktop Fans, Amazing Gifts, more...</li>
+                            </ul>
+                        </div>
+
+                    </td>
+                </tr>
+            </table>
+
+        </td>
+    </tr>
+
+</table>
+

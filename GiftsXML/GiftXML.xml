@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Gifts>
+  <Gift>
+    <Name>Look into my eyes Cushion</Name>
+    <Details>Grab This look into my eyes soft Toy and weave the dreams of love.</Details>
+    <Price>50</Price>
+    <Category>2</Category>
+  </Gift>
+  <Gift>
+    <Name>Singing Banana( Hand Picked for Hallmark)</Name>
+    <Details>Buy this unique toy in the shape of Banana Boy that sings and will surely bring a smile on anyone's face.</Details>
+    <Price>146</Price>
+    <Category>3</Category>
+  </Gift>
+  <Gift>
+    <Name>Duck With Frame</Name>
+    <Details>Bring this unique Duck with Photo Frame to your home and let the pictures tell the story. Ideal for 3.5: x 5" photograph.</Details>
+    <Price>20</Price>
+    <Category>7</Category>
+  </Gift>
+  <Gift>
+    <Name>Apple Musical Doll</Name>
+    <Details>This new fashion doll is soft and safe for your loved one. It has a Sensitive detector inside of it, once you touch it, it will be singing and talking with different music or sentences an apt gift for your younger ones.</Details>
+    <Price>17</Price>
+    <Category>3</Category>
+  </Gift>
+</Gifts>
