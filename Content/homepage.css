@@ -1,0 +1,28 @@
+﻿@media screen and (max-width:1200px) {
+
+ 
+    #Name {
+       font-size:24px
+    }
+
+    #TeddyImage {
+
+        width:400px;
+            height:275px;
+    }
+  
+
+}
+
+@media screen and (max-width:800px) {
+        #Name {
+       font-size:18px
+    }
+
+          #TeddyImage {
+
+        width:250px;
+            height:275px;
+    }
+}
+
